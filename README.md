@@ -4,6 +4,7 @@ This repository contains information regarding the software versions and paramet
 
 Baker JL, Edlund A. 2020 Composite long- and short-read sequencing delivers a complete genome seuqence of B04Sm5, a reutericyclin- and mutanocyclin-producing         strain of Streptococcus mutans.  Microbiology Resource Announcements. 9:e01067-20
 
+
 Tools and versions:
 
 Guppy v4.8.11  
